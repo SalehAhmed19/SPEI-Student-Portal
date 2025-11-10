@@ -6,7 +6,7 @@ const routes = createBrowserRouter([
   {
     path: "/",
     element: <MainL />,
-    children: [{ path: "/", element: <HomeP /> }],
+    children: [{ path: "/dashboard", element: <HomeP /> }],
   },
 ]);
 
