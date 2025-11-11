@@ -13,13 +13,14 @@ export default function Announcement() {
         {announcement.map((ann, idx) => (
           <li
             key={idx}
-            className="p-5 hover:bg-white rounded-xl duration-300 cursor-pointer flex gap-4 items-center"
+            className="p-3 hover:bg-white rounded-xl duration-300 cursor-pointer flex gap-4 items-center bangla-font"
           >
             <div className="h-2 w-2 bg-green-700"></div>{" "}
             {ann.title.slice(0, 75) + "..."}
           </li>
         ))}
       </ul>
+      <p className="text-green-700 font-bold cursor-pointer">See More...</p>
     </div>
   );
 }

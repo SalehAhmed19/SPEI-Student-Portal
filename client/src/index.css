@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100..800&family=Questrial&display=swap");
 
 @import "tailwindcss";
 
@@ -8,4 +8,8 @@ body {
 
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
+}
+
+.bangla-font {
+  font-family: "Anek Bangla", sans-serif;
 }
