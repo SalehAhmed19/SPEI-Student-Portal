@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import MainL from "../layout/MainL";
 import HomeP from "../pages/HomeP";
 import PayFeesP from "../pages/Payments/PayFeesP";
-import AccountDetailsP from "../pages/Payments/AccountDetailsP";
+import AccountDetailsP from "../pages/AccountDetails/AccountDetailsP";
 import HostelAccountDetailsP from "../pages/Payments/HostelAccountDetailsP";
 import DownloadFormsP from "../pages/DownloadFormsP";
 import ResultsP from "../pages/ResultsP";

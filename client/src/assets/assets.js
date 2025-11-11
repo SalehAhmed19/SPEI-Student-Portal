@@ -136,3 +136,108 @@ export const announcement = [
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
   },
 ];
+
+export const accountDetailsTableData = [
+  {
+    sl: 1,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 2,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 3,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 4,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 5,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 6,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 7,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 8,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 9,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 10,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 11,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 12,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+  {
+    sl: 13,
+    date: new Date().toLocaleDateString(),
+    receipt: 2342,
+    payment_type: "Tution Fee",
+    amount: 2500,
+  },
+];
+
+export const forms = [
+  { title: "Scholarship" },
+  { title: "Transcript" },
+  { title: "Leave application form" },
+  { title: "Admit Card" },
+  { title: "Testimoinals" },
+  { title: "Studenship Certificate" },
+  { title: "Character Certificate" },
+  { title: "Permission of exam" },
+];

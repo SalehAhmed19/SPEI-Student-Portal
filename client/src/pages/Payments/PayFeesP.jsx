@@ -1,7 +1,6 @@
 import React from "react";
 import { useForm, Controller } from "react-hook-form"; // No change here
 import SectionTitle from "../../components/UI/SectionTitle";
-import { images } from "../../assets/assets";
 import Autocomplete from "@mui/joy/Autocomplete";
 import Input from "@mui/joy/Input";
 import Button from "@mui/joy/Button";
