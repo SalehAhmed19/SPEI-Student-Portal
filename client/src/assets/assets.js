@@ -2,6 +2,9 @@
 import logo from "./images/logo.png";
 import profileHeading from "./images/profile-heading.png";
 import image from "./images/image.png";
+import bKash from "./images/bKash.png";
+import nagad from "./images/nagad.png";
+import card from "./images/card.jpg";
 
 // importing icons
 import {
@@ -25,6 +28,9 @@ export const images = {
   logo,
   profileHeading,
   image,
+  bKash,
+  nagad,
+  card,
 };
 
 export const icons = {
