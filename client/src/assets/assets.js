@@ -42,3 +42,91 @@ export const icons = {
   Logout: MdLogout,
   Number: GoNumber,
 };
+
+// data
+export const announcement = [
+  {
+    id: 1,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 2,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 3,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 4,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 5,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 6,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 7,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 8,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 9,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 10,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 11,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+  {
+    id: 12,
+    title:
+      "১১ নভেম্বর স্কয়ার পলিটেকনিক ইন্সটিটিউটে মিড টার্ম এক্সাম এর ফলাফল ঘোষণা এবং ক্রীড়া প্রতিযোগিতা এর আয়োজন করা হয়েছে।",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nam omnis, dolorem similique ducimus quibusdam consequatur minus cumque deleniti consectetur debitis voluptate. Excepturi illo reiciendis eum voluptatem quibusdam possimus minima.",
+  },
+];

@@ -5,10 +5,10 @@ import useIcons from "../../../hooks/useIcons";
 export default function Summary() {
   const { Number, Result } = useIcons();
   return (
-    <div>
+    <div className="bg-gray-100 p-5 rounded-xl">
       <SectionTitle title={"Summary"} />
 
-      <hr className="border-black/10 my-8" />
+      <hr className="border-black/10 my-5" />
 
       <div>
         <ul className="flex flex-col gap-4">

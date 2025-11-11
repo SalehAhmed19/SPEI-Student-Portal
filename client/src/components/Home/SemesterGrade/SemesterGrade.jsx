@@ -56,7 +56,7 @@ const data = {
     {
       label: "Semester GPA", // More descriptive label
       data: results.map((result) => result.gpa),
-      backgroundColor: "rgba(30, 130, 76)",
+      backgroundColor: "rgba(30, 130, 76, 0.8)",
     },
   ],
 };
@@ -65,10 +65,10 @@ const data = {
 
 export default function SemesterGrade() {
   return (
-    <div>
+    <div className="bg-gray-100 p-5 rounded-xl">
       <SectionTitle title={"Semester Grade"} />
       <div>
-        <Bar options={options} data={data} className="cursor-pointer" />
+        <Bar options={options} data={data} className="cursor-pointer w-full" />
       </div>
     </div>
   );
