@@ -45,11 +45,11 @@ export default function SideBar({ className }) {
     {
       icon: <DownloadForm />,
       label: "Download Form",
-      href: "/download",
+      href: "/download-forms",
       submenu: [],
     },
-    { icon: <Result />, label: "Result", href: "/result", submenu: [] },
-    { icon: <Improve />, label: "Improve", href: "/improve", submenu: [] },
+    { icon: <Result />, label: "Result", href: "/results", submenu: [] },
+    { icon: <Improve />, label: "Improve", href: "/improvement", submenu: [] },
     {
       icon: <Attendance />,
       label: "Attendance",
@@ -57,7 +57,7 @@ export default function SideBar({ className }) {
       submenu: [],
     },
     { icon: <Routine />, label: "Routine", href: "/routine", submenu: [] },
-    { icon: <User />, label: "User Profile", href: "/user", submenu: [] },
+    { icon: <User />, label: "User Profile", href: "/profile", submenu: [] },
     { icon: <Hoste />, label: "Hostel", href: "/hostel", submenu: [] },
     {
       icon: <BloodDonate />,
